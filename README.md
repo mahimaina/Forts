@@ -29,6 +29,7 @@ Players Pā will be pre-built, with shop NPC’s, Pou, and a wall made of a sing
 
 COMMANDS
 		The commands should follow the standard minigame command list including:
+                
 			/pa arena create <name>
 			/pa arena remove <name>
 			/pa arena wand (for marking out the arena boundaries)
