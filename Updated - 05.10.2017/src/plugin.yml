@@ -1,0 +1,9 @@
+name: PAWars
+main: de.mavecrit.pawars.Main
+version: 1-release
+author: MaveCrit
+loadBefore: [PacketListenerApi]
+depend: [PacketListenerApi]
+commands:
+    walkhere:
+    pa:
